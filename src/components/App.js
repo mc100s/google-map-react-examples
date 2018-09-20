@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <div style={{ backgroundColor: 'red', color: 'white', height: 30, padding: '5px 10px', fontSize: 25 }}>
-          Google Maps Examples
+          google-map-react examples
         </div>
 
         <Route path="/" exact render={() => (
