@@ -14,3 +14,8 @@ The package used is [`google-map-react`](https://www.npmjs.com/package/google-ma
 ```sh
 $ npm i google-map-react
 ```
+
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/5306791/45789663-1988d100-bc81-11e8-8825-5f0e5d0053dc.png)
