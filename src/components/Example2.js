@@ -4,7 +4,7 @@ import axios from 'axios'
 import PinMarker from './markers/PinMarker'
 
 
-class Example1 extends Component {
+class Example2 extends Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -48,6 +48,6 @@ class Example1 extends Component {
   }
 }
 
-export default Example1;
+export default Example2;
 
 
